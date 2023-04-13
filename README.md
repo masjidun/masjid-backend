@@ -2,6 +2,13 @@
 
 *Masih dalam tahap pengembangan.*
 
+- [Instalasi](#instalasi)
+    - [Pengguna Sistem](#pengguna-sistem)
+- [Dokumentasi API](#dokumentasi-api)
+    - [Authentication](#authentication)
+        - [Login](#login)
+        - [Register](#register)
+
 ## Instalasi
 
 - Buka CMD atau Terminal
